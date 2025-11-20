@@ -3,19 +3,69 @@
     "level": "Beginner",
     "field": "Cyber Security",
 
-    "mentors recommendation": {
-        "Dr. Vijay Varadi": "https://emergimentors.com.au/mentor-profile/dr-vijay-varad/",
-        "Yogesh Singh":"https://emergimentors.com.au/mentor-profile/yogesh-singh/",
-        "Shaikh Minhaj": "https://emergimentors.com.au/mentor-profile/shaikh-minhaj-1",
-        "Sairam Jetty": "https://emergimentors.com.au/mentor-profile/sairam-jetty",
-        "Babak Mirzahosseiny": "https://emergimentors.com.au/mentor-profile/babak-mirzahosseiny",
-        "Samandeep Singh": "https://emergimentors.com.au/mentor-profile/samandeep-singh",
-        "Rohit Mukherjee": "https://emergimentors.com.au/mentor-profile/rohit-mukherjee",
-        "Oluwaseyi Akinseesin": "https://emergimentors.com.au/mentor-profile/oluwaseyi-akinseesin",
-        "Donavan Cheah": "https://emergimentors.com.au/mentor-profile/donavan-cheah-donavancheah",
-        "NIRMAL BUDHATHOKI": "https://emergimentors.com.au/mentor-profile/nirmal-budhathoki"
+     "mentors recommendation": 
+      [ 
+        {
+            "first_name":"Dr. Vijay",
+            "last_name":"Varadi",
+            "slug":"dr-vijay-varad",
+            "avatar":"https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762231188_18.png"
+        },
+        {
+        "first_name": "Yogesh",
+        "last_name": "Singh",
+        "slug": "yogesh-singh",
+        "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1755599544_yougesh-singh.png"
     },
-
+    {
+        "first_name": "Shaikh",
+        "last_name": "Minhaj",
+        "slug": "shaikh-minhaj-1",
+        "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/intorductory-videos/1758520771_cropped-image.jpg"
+    },
+    {
+        "first_name": "Sairam",
+        "last_name": "Jetty",
+        "slug": "sairam-jetty",
+        "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1761912885_sairam-jetty.png"
+    },
+    {
+        "first_name": "Babak",
+        "last_name": "Mirzahosseiny",
+        "slug": "babak-mirzahosseiny",
+        "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1761906891_babak.png"
+    },
+    {
+        "first_name": "Samandeep",
+        "last_name": "Singh",
+        "slug": "samandeep-singh",
+        "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762234432_27.png"
+    },
+    {
+        "first_name": "Rohit",
+        "last_name": "Mukherjee",
+        "slug": "rohit-mukherjee",
+        "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762231044_12.png"
+    },
+    {
+        "first_name": "Oluwaseyi",
+        "last_name": "Akinseesin",
+        "slug": "oluwaseyi-akinseesin",
+        "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762234546_oluwaseyi.png"
+    },
+    {
+        "first_name": "Donavan",
+        "last_name": "Cheah",
+        "slug": "donavan-cheah-donavancheah",
+        "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762231167_17.png"
+    },
+    {
+        "first_name": "NIRMAL",
+        "last_name": "BUDHATHOKI",
+        "slug": "nirmal-budhathoki",
+        "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1761912359_nirmal.png"
+    }    
+  ],
     "description": {
       "overview": "This beginner-level cyber security track builds a strong foundation in IT, networking, operating systems, virtualization, and core security concepts. Learners gain hands-on experience with essential tools and basic CTF environments.",
       "skills": [
@@ -142,4 +192,5 @@
       },
       "duration": "2 Weeks"
     }
+
 }
