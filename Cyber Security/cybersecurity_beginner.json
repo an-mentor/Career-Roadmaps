@@ -2,66 +2,96 @@
   "title": "Cyber Security Roadmap",
   "level": "Beginner",
   "field": "Cyber Security",
-  "mentors recommendation": [
+  "mentors_recommendation": [
     {
       "first_name": "Dr. Vijay",
       "last_name": "Varadi",
-      "slug": "dr-vijay-varad",
-      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762231188_18.png"
+      "slug": "dr-vijay-varadi",
+      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762231188_18.png",
+      "position": "Lead Data Scientist",
+      "company": "dsm-firmenich",
+      "experience": "10 Year +"
     },
     {
       "first_name": "Yogesh",
       "last_name": "Singh",
       "slug": "yogesh-singh",
-      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1755599544_yougesh-singh.png"
+      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1755599544_yougesh-singh.png",
+      "position": "AI Consultant",
+      "company": "NSArrows Innovations",
+      "experience": "10 Year +"
     },
     {
       "first_name": "Shaikh",
       "last_name": "Minhaj",
       "slug": "shaikh-minhaj-1",
-      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/intorductory-videos/1758520771_cropped-image.jpg"
+      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/intorductory-videos/1758520771_cropped-image.jpg",
+      "position": "Verified Mentor",
+      "company": "Topmate",
+      "experience": "3-5 Years"
     },
     {
       "first_name": "Sairam",
       "last_name": "Jetty",
       "slug": "sairam-jetty",
-      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1761912885_sairam-jetty.png"
+      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1761912885_sairam-jetty.png",
+      "position": "Senior Security Analyst",
+      "company": "Department of Transport and Planning",
+      "experience": "10 Year +"
     },
     {
       "first_name": "Babak",
       "last_name": "Mirzahosseiny",
       "slug": "babak-mirzahosseiny",
-      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1761906891_babak.png"
+      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1761906891_babak.png",
+      "position": "Head of Cyber Security",
+      "company": "GFS",
+      "experience": "10 Year +"
     },
     {
       "first_name": "Samandeep",
       "last_name": "Singh",
       "slug": "samandeep-singh",
-      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762234432_27.png"
+      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762234432_27.png",
+      "position": "Offensive Security Professional",
+      "company": "N/A",
+      "experience": "10 Year +"
     },
     {
       "first_name": "Rohit",
       "last_name": "Mukherjee",
       "slug": "rohit-mukherjee",
-      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762231044_12.png"
+      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762231044_12.png",
+      "position": "Incident Responder",
+      "company": "Salesforce",
+      "experience": "3-5 Years"
     },
     {
       "first_name": "Oluwaseyi",
       "last_name": "Akinseesin",
       "slug": "oluwaseyi-akinseesin",
-      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762234546_oluwaseyi.png"
+      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762234546_oluwaseyi.png",
+      "position": "Cybersecurity Expert",
+      "company": "RBC",
+      "experience": "10 Year +"
     },
     {
       "first_name": "Donavan",
       "last_name": "Cheah",
       "slug": "donavan-cheah-donavancheah",
-      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762231167_17.png"
+      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1762231167_17.png",
+      "position": "Senior Cybersecurity Consultant",
+      "company": "Thales",
+      "experience": "5-10 Years"
     },
     {
       "first_name": "NIRMAL",
       "last_name": "BUDHATHOKI",
       "slug": "nirmal-budhathoki",
-      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1761912359_nirmal.png"
+      "avatar": "https://emerji-assess.s3.ap-southeast-2.amazonaws.com/public/introductory-videos/1761912359_nirmal.png",
+      "position": "Senior Data Scientist",
+      "company": "Microsoft",
+      "experience": "10 Year +"
     }
   ],
   "description": {
@@ -860,3 +890,4 @@
     "duration": "2 Weeks"
   }
 }
+
