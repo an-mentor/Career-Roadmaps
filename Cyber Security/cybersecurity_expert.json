@@ -1,0 +1,160 @@
+
+{
+    "title": "Cyber Security Roadmap",
+    "level": "Expert",
+    "field": "Cyber Security",
+
+    "mentors recommendation": {
+        "Dr. Vijay Varadi": "https://emergimentors.com.au/mentor-profile/dr-vijay-varad/",
+        "Yogesh Singh":"https://emergimentors.com.au/mentor-profile/yogesh-singh/",
+        "Shaikh Minhaj": "https://emergimentors.com.au/mentor-profile/shaikh-minhaj-1",
+        "Sairam Jetty": "https://emergimentors.com.au/mentor-profile/sairam-jetty",
+        "Babak Mirzahosseiny": "https://emergimentors.com.au/mentor-profile/babak-mirzahosseiny",
+        "Samandeep Singh": "https://emergimentors.com.au/mentor-profile/samandeep-singh",
+        "Rohit Mukherjee": "https://emergimentors.com.au/mentor-profile/rohit-mukherjee",
+        "Oluwaseyi Akinseesin": "https://emergimentors.com.au/mentor-profile/oluwaseyi-akinseesin",
+        "Donavan Cheah": "https://emergimentors.com.au/mentor-profile/donavan-cheah-donavancheah",
+        "NIRMAL BUDHATHOKI": "https://emergimentors.com.au/mentor-profile/nirmal-budhathoki"
+    },
+
+    "description": {
+      "overview": "The expert track specializes in advanced offensive security, malware analysis, threat hunting, cloud security engineering, and red/blue/purple team operations. Designed for senior security engineers aiming for mastery.",
+      "skills": [
+        "Advanced exploitation",
+        "Reverse engineering",
+        "Memory & disk forensics",
+        "Threat actor profiling",
+        "Zero Trust design",
+        "Advanced cloud security",
+        "SIEM & SOAR automation",
+        "Red/Blue/Purple operations"
+      ],
+      "roles": [
+        "Senior SOC Analyst",
+        "Threat Hunter",
+        "Senior Penetration Tester",
+        "Red Team Operator",
+        "Security Architect",
+        "Cloud Security Engineer"
+      ],
+      "prerequisites": [
+        "Strong cybersecurity foundation",
+        "Intermediate-level hands-on experience",
+        "Understanding of IR, networking, scripting"
+      ]
+    },
+
+    "durations": "6 Weeks",
+    "no of modules": 10,
+
+    "modules": [
+      {
+        "module name": "Advanced Offensive Security",
+        "topics": {
+          "Advanced Recon": "Custom enumeration strategies",
+          "Exploitation": "Buffer overflow, memory corruption",
+          "Payload Development": "Custom exploit creation"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Advanced Malware Reverse Engineering",
+        "topics": {
+          "Static Analysis": "Disassembly, strings",
+          "Dynamic Analysis": "Behavioral analysis, sandboxing",
+          "Evasion Techniques": "Obfuscation, packing"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Advanced Network Security Engineering",
+        "topics": {
+          "Architecture": "Zero Trust, segmentation",
+          "Enterprise Tech": "EDR, XDR, NAC",
+          "Automation": "SIEM + SOAR engineering"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Expert Incident Response",
+        "topics": {
+          "APT Detection": "Threat actor profiling",
+          "Forensics": "Memory, disk, registry forensics",
+          "Log Analysis": "Enterprise-scale correlation"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Threat Hunting (Expert)",
+        "topics": {
+          "MITRE ATT&CK": "Advanced mapping",
+          "Detection": "Custom rule creation",
+          "Models": "Kill Chain, Diamond Model"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Advanced Cloud Security",
+        "topics": {
+          "Cloud Attacks": "SSRF, metadata exploitation",
+          "IAM": "Privilege escalation risks",
+          "IaC Security": "Terraform & CloudFormation"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Advanced Web Exploitation",
+        "topics": {
+          "Attacks": "SSRF, RCE, XXE",
+          "Bypasses": "Auth & access bypass",
+          "API Security": "Advanced API exploitation"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Red Team Operations",
+        "topics": {
+          "Campaigns": "Planning & execution",
+          "Tools": "LOLBAS, GTFOBins",
+          "Post-Exploitation": "Persistence & pivoting"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Blue Team & SOC Engineering",
+        "topics": {
+          "Detection Engineering": "Rule creation, log enrichment",
+          "Indicators": "IOC, IOA development",
+          "Monitoring": "SIEM dashboards & alerting"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Expert Certification Track",
+        "topics": {
+          "Certifications": "OSCP, CISSP, CISM, GIAC"
+        },
+        "duration": "1 Week"
+      }
+    ],
+
+    "Project": {
+      "project title": "Full-Scale Red vs Blue Simulation",
+      "units": {
+        "Unit 1": "Design & launch a real-world attack simulation",
+        "Unit 2": "Blue team detection & containment",
+        "Unit 3": "Threat hunting correlations",
+        "Unit 4": "Executive-level reporting"
+      },
+      "duration": "3 Weeks"
+    }
+}

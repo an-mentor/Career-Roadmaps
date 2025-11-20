@@ -1,0 +1,171 @@
+{
+    "title": "Cyber Security Roadmap",
+    "level": "Intermediate",
+    "field": "Cyber Security",
+
+    "mentors recommendation": {
+        "Dr. Vijay Varadi": "https://emergimentors.com.au/mentor-profile/dr-vijay-varad/",
+        "Yogesh Singh":"https://emergimentors.com.au/mentor-profile/yogesh-singh/",
+        "Shaikh Minhaj": "https://emergimentors.com.au/mentor-profile/shaikh-minhaj-1",
+        "Sairam Jetty": "https://emergimentors.com.au/mentor-profile/sairam-jetty",
+        "Babak Mirzahosseiny": "https://emergimentors.com.au/mentor-profile/babak-mirzahosseiny",
+        "Samandeep Singh": "https://emergimentors.com.au/mentor-profile/samandeep-singh",
+        "Rohit Mukherjee": "https://emergimentors.com.au/mentor-profile/rohit-mukherjee",
+        "Oluwaseyi Akinseesin": "https://emergimentors.com.au/mentor-profile/oluwaseyi-akinseesin",
+        "Donavan Cheah": "https://emergimentors.com.au/mentor-profile/donavan-cheah-donavancheah",
+        "NIRMAL BUDHATHOKI": "https://emergimentors.com.au/mentor-profile/nirmal-budhathoki"
+    },
+
+    "description": {
+      "overview": "This intermediate program elevates learners into real-world cybersecurity operations covering threat hunting, incident response, advanced tools, and web/app security practices including OWASP Top 10.",
+      "skills": [
+        "Packet analysis",
+        "Web application security",
+        "Threat hunting fundamentals",
+        "Vulnerability management",
+        "Authentication protocols",
+        "SIEM basics",
+        "Incident response"
+      ],
+      "roles": [
+        "Cyber Security Analyst (Level 1/2)",
+        "SOC Analyst",
+        "Vulnerability Analyst",
+        "Junior Penetration Tester"
+      ],
+      "prerequisites": [
+        "Beginner-level cyber security knowledge",
+        "Understanding of networking basics",
+        "Familiarity with operating systems"
+      ]
+    },
+
+    "durations": "8 Weeks",
+    "no of modules": 12,
+
+    "modules": [
+      {
+        "module name": "Advanced Networking Concepts",
+        "topics": {
+          "Advanced Protocols": "SSH, SFTP, RDP",
+          "Security Essentials": "SSL/TLS deep-dive",
+          "IP Services": "DHCP, DNS, NTP, IPAM"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Security Tools Mastery",
+        "topics": {
+          "Packet Analysis": "tcpdump, Wireshark",
+          "Scanning": "Advanced nmap usage",
+          "Analyzers": "Using protocol analyzers"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Authentication & Identity Management",
+        "topics": {
+          "Directory Services": "LDAP, Kerberos",
+          "Authentication Systems": "SSO, RADIUS",
+          "PKI": "Public vs Private Keys, Certificates"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Cybersecurity Operations",
+        "topics": {
+          "Threat Hunting": "Basic methodologies",
+          "Forensics": "Disk & memory basics",
+          "Reverse Engineering": "Introduction"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Network Security Architecture",
+        "topics": {
+          "Models": "DMZ, Segmentation, Zero Trust",
+          "Hardening": "OS hardening, isolation techniques"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Incident Response Foundations",
+        "topics": {
+          "IR Phases": "Preparation to Lessons Learned",
+          "Tools": "FTK Imager, Autopsy, WinHex"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Threat Intelligence & OSINT",
+        "topics": {
+          "Tools": "VirusTotal, any.run, WHOIS, urlscan",
+          "Classification": "Zero-day, APT, known/unknown threats"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Web Application Security",
+        "topics": {
+          "OWASP Top 10": "XSS, SQLi, CSRF, Injections",
+          "Pentesting": "Intermediate web testing skills"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Social Engineering & Human Risk",
+        "topics": {
+          "Attack Types": "Phishing, Smishing, Whaling",
+          "Physical Attacks": "Tailgating, Dumpster Diving"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Cloud Security Foundations",
+        "topics": {
+          "Models": "SaaS, PaaS, IaaS",
+          "Environments": "AWS, Azure, GCP basics",
+          "Storage": "S3, Google Drive, OneDrive security"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Programming for Cybersecurity",
+        "topics": {
+          "Python": "Scripting for automation",
+          "Bash": "Basic shell scripting",
+          "PowerShell": "Automation in Windows"
+        },
+        "duration": "1 Week"
+      },
+
+      {
+        "module name": "Intermediate Certification Prep",
+        "topics": {
+          "Certifications": "CEH, GSEC, GPEN, CREST"
+        },
+        "duration": "1 Week"
+      }
+    ],
+
+    "Project": {
+      "project title": "End-to-End Vulnerability Assessment Report",
+      "units": {
+        "Unit 1": "Network scan with nmap",
+        "Unit 2": "Analyze vulnerabilities",
+        "Unit 3": "Perform OWASP testing",
+        "Unit 4": "Prepare professional VAPT report"
+      },
+      "duration": "2 Weeks"
+    }
+}
